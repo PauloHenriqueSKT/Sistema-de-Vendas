@@ -1,0 +1,99 @@
+C:\Users\paull\source\repos\Project\Project\bin\Debug\netcoreapp3.0\Project.exe
+C:\Users\paull\source\repos\Project\Project\bin\Debug\netcoreapp3.0\Project.deps.json
+C:\Users\paull\source\repos\Project\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.json
+C:\Users\paull\source\repos\Project\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.dev.json
+C:\Users\paull\source\repos\Project\Project\bin\Debug\netcoreapp3.0\Project.dll
+C:\Users\paull\source\repos\Project\Project\bin\Debug\netcoreapp3.0\Project.pdb
+C:\Users\paull\source\repos\Project\Project\obj\Debug\netcoreapp3.0\Project.csprojAssemblyReference.cache
+C:\Users\paull\source\repos\Project\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfoInputs.cache
+C:\Users\paull\source\repos\Project\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfo.cs
+C:\Users\paull\source\repos\Project\Project\obj\Debug\netcoreapp3.0\Project.dll
+C:\Users\paull\source\repos\Project\Project\obj\Debug\netcoreapp3.0\Project.pdb
+C:\Users\Millenium\Desktop\Project\Project\bin\Debug\netcoreapp3.0\Project.exe
+C:\Users\Millenium\Desktop\Project\Project\bin\Debug\netcoreapp3.0\Project.deps.json
+C:\Users\Millenium\Desktop\Project\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.json
+C:\Users\Millenium\Desktop\Project\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.dev.json
+C:\Users\Millenium\Desktop\Project\Project\bin\Debug\netcoreapp3.0\Project.dll
+C:\Users\Millenium\Desktop\Project\Project\bin\Debug\netcoreapp3.0\Project.pdb
+C:\Users\Millenium\Desktop\Project\Project\obj\Debug\netcoreapp3.0\Project.csprojAssemblyReference.cache
+C:\Users\Millenium\Desktop\Project\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfoInputs.cache
+C:\Users\Millenium\Desktop\Project\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfo.cs
+C:\Users\Millenium\Desktop\Project\Project\obj\Debug\netcoreapp3.0\Project.dll
+C:\Users\Millenium\Desktop\Project\Project\obj\Debug\netcoreapp3.0\Project.pdb
+C:\Users\paull\OneDrive\Área de Trabalho\Project\Project\obj\Debug\netcoreapp3.0\Project.csprojAssemblyReference.cache
+C:\Users\paull\OneDrive\Área de Trabalho\Project\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfoInputs.cache
+C:\Users\paull\OneDrive\Área de Trabalho\Project\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfo.cs
+C:\Users\paull\OneDrive\Área de Trabalho\Project\Project\obj\Debug\netcoreapp3.0\Project.dll
+C:\Users\paull\OneDrive\Área de Trabalho\Project\Project\obj\Debug\netcoreapp3.0\Project.pdb
+C:\Users\paull\OneDrive\Área de Trabalho\Project\Project\bin\Debug\netcoreapp3.0\Project.exe
+C:\Users\paull\OneDrive\Área de Trabalho\Project\Project\bin\Debug\netcoreapp3.0\Project.deps.json
+C:\Users\paull\OneDrive\Área de Trabalho\Project\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.json
+C:\Users\paull\OneDrive\Área de Trabalho\Project\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.dev.json
+C:\Users\paull\OneDrive\Área de Trabalho\Project\Project\bin\Debug\netcoreapp3.0\Project.dll
+C:\Users\paull\OneDrive\Área de Trabalho\Project\Project\bin\Debug\netcoreapp3.0\Project.pdb
+C:\Users\Millenium\Desktop\Project 2.0\Project\bin\Debug\netcoreapp3.0\Project.exe
+C:\Users\Millenium\Desktop\Project 2.0\Project\bin\Debug\netcoreapp3.0\Project.deps.json
+C:\Users\Millenium\Desktop\Project 2.0\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.json
+C:\Users\Millenium\Desktop\Project 2.0\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.dev.json
+C:\Users\Millenium\Desktop\Project 2.0\Project\bin\Debug\netcoreapp3.0\Project.dll
+C:\Users\Millenium\Desktop\Project 2.0\Project\bin\Debug\netcoreapp3.0\Project.pdb
+C:\Users\Millenium\Desktop\Project 2.0\Project\obj\Debug\netcoreapp3.0\Project.csprojAssemblyReference.cache
+C:\Users\Millenium\Desktop\Project 2.0\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfoInputs.cache
+C:\Users\Millenium\Desktop\Project 2.0\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfo.cs
+C:\Users\Millenium\Desktop\Project 2.0\Project\obj\Debug\netcoreapp3.0\Project.dll
+C:\Users\Millenium\Desktop\Project 2.0\Project\obj\Debug\netcoreapp3.0\Project.pdb
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.0\Project\bin\Debug\netcoreapp3.0\Project.exe
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.0\Project\bin\Debug\netcoreapp3.0\Project.deps.json
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.0\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.json
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.0\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.dev.json
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.0\Project\bin\Debug\netcoreapp3.0\Project.dll
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.0\Project\bin\Debug\netcoreapp3.0\Project.pdb
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.0\Project\obj\Debug\netcoreapp3.0\Project.csprojAssemblyReference.cache
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.0\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfoInputs.cache
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.0\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfo.cs
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.0\Project\obj\Debug\netcoreapp3.0\Project.dll
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.0\Project\obj\Debug\netcoreapp3.0\Project.pdb
+C:\Users\Millenium\Desktop\Project 3.5\Project\bin\Debug\netcoreapp3.0\Project.exe
+C:\Users\Millenium\Desktop\Project 3.5\Project\bin\Debug\netcoreapp3.0\Project.deps.json
+C:\Users\Millenium\Desktop\Project 3.5\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.json
+C:\Users\Millenium\Desktop\Project 3.5\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.dev.json
+C:\Users\Millenium\Desktop\Project 3.5\Project\bin\Debug\netcoreapp3.0\Project.dll
+C:\Users\Millenium\Desktop\Project 3.5\Project\bin\Debug\netcoreapp3.0\Project.pdb
+C:\Users\Millenium\Desktop\Project 3.5\Project\obj\Debug\netcoreapp3.0\Project.csprojAssemblyReference.cache
+C:\Users\Millenium\Desktop\Project 3.5\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfoInputs.cache
+C:\Users\Millenium\Desktop\Project 3.5\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfo.cs
+C:\Users\Millenium\Desktop\Project 3.5\Project\obj\Debug\netcoreapp3.0\Project.dll
+C:\Users\Millenium\Desktop\Project 3.5\Project\obj\Debug\netcoreapp3.0\Project.pdb
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.5\Project\bin\Debug\netcoreapp3.0\Project.exe
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.5\Project\bin\Debug\netcoreapp3.0\Project.deps.json
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.5\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.json
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.5\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.dev.json
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.5\Project\bin\Debug\netcoreapp3.0\Project.dll
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.5\Project\bin\Debug\netcoreapp3.0\Project.pdb
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.5\Project\obj\Debug\netcoreapp3.0\Project.csprojAssemblyReference.cache
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.5\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfoInputs.cache
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.5\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfo.cs
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.5\Project\obj\Debug\netcoreapp3.0\Project.dll
+C:\Users\paull\OneDrive\Área de Trabalho\Project 3.5\Project\obj\Debug\netcoreapp3.0\Project.pdb
+C:\Users\Millenium\Desktop\Project 4.0\Project\bin\Debug\netcoreapp3.0\Project.exe
+C:\Users\Millenium\Desktop\Project 4.0\Project\bin\Debug\netcoreapp3.0\Project.deps.json
+C:\Users\Millenium\Desktop\Project 4.0\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.json
+C:\Users\Millenium\Desktop\Project 4.0\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.dev.json
+C:\Users\Millenium\Desktop\Project 4.0\Project\bin\Debug\netcoreapp3.0\Project.dll
+C:\Users\Millenium\Desktop\Project 4.0\Project\bin\Debug\netcoreapp3.0\Project.pdb
+C:\Users\Millenium\Desktop\Project 4.0\Project\obj\Debug\netcoreapp3.0\Project.csprojAssemblyReference.cache
+C:\Users\Millenium\Desktop\Project 4.0\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfoInputs.cache
+C:\Users\Millenium\Desktop\Project 4.0\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfo.cs
+C:\Users\Millenium\Desktop\Project 4.0\Project\obj\Debug\netcoreapp3.0\Project.dll
+C:\Users\Millenium\Desktop\Project 4.0\Project\obj\Debug\netcoreapp3.0\Project.pdb
+C:\Users\Millenium\Desktop\Project 5.0\Project\bin\Debug\netcoreapp3.0\Project.exe
+C:\Users\Millenium\Desktop\Project 5.0\Project\bin\Debug\netcoreapp3.0\Project.deps.json
+C:\Users\Millenium\Desktop\Project 5.0\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.json
+C:\Users\Millenium\Desktop\Project 5.0\Project\bin\Debug\netcoreapp3.0\Project.runtimeconfig.dev.json
+C:\Users\Millenium\Desktop\Project 5.0\Project\bin\Debug\netcoreapp3.0\Project.dll
+C:\Users\Millenium\Desktop\Project 5.0\Project\bin\Debug\netcoreapp3.0\Project.pdb
+C:\Users\Millenium\Desktop\Project 5.0\Project\obj\Debug\netcoreapp3.0\Project.csprojAssemblyReference.cache
+C:\Users\Millenium\Desktop\Project 5.0\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfoInputs.cache
+C:\Users\Millenium\Desktop\Project 5.0\Project\obj\Debug\netcoreapp3.0\Project.AssemblyInfo.cs
+C:\Users\Millenium\Desktop\Project 5.0\Project\obj\Debug\netcoreapp3.0\Project.dll
+C:\Users\Millenium\Desktop\Project 5.0\Project\obj\Debug\netcoreapp3.0\Project.pdb
